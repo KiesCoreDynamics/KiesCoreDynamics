@@ -17,14 +17,16 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake.svg" />
 </picture>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
