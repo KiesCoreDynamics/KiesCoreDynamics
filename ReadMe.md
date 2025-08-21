@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 # 💫 About Me:
 ### Hi, ich bin SteffZeroEx aka Steffen 👋  <br><br>💻 **Quereinsteiger in die Softwareentwicklung** mit einer Leidenschaft für Web-Technologien und Automatisierung.  <br>📚 Mein aktueller Stack: **HTML, CSS, JavaScript**. Ich plane, mein Wissen im **MERN-Stack (MongoDB/MySQL, Express.js, React, Node.js/Next.js)** zu erweitern.  <br>🐍 Zusätzlich interessiere ich mich für **Python**, insbesondere für Microcontroller-Projekte (z. B. Raspberry Pi & Hydroponik-Automatisierung).  <br><br> 🚀 Projekte  <br>- 📅 **Life-Planner** – eine Web-App zur Selbstorganisation mit To-Dos, Gewohnheitstracking & Affirmationen.  <br>- 🌱 **Garten-Webseite** – Info-Plattform für einen Gartenverein.  <br>- 💪 **Fitness-Webseite** – persönliche Trainings- und Ernährungsplattform.  <br><br>🎯 **Ziel:** Full-Stack-Entwicklung! Ich arbeite darauf hin, meine Kenntnisse im Backend auszubauen, um sowohl Frontend- als auch Backend-Projekte umzusetzen.  <br>📜 Eine Umschulung zum **Fachinformatiker** ist in Planung.  <br>
 
@@ -24,7 +23,7 @@
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![Snake animation](https://github.com/steffzeroex/steffzeroex/blob/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake.svg" />
