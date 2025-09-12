@@ -19,7 +19,7 @@ fields_of_interests:
 
 technical_background:
   - Frontend: HTML, CSS, JavaScript
-  - In Progress:  (SQL/Postgre, React, Node.js/Next.js)
+  - In Progress: SQL/Postgre, React, Node.js/Next.js
   - Python: Arduino, ESP32, Raspberry Pi & Hydroponik-Automatisierung
 
 currently_learning:
