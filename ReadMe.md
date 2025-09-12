@@ -19,12 +19,12 @@ fields_of_interests:
 
 technical_background:
   - Frontend: HTML, CSS, JavaScript
-  - In Progress: MERN-Stack (MongoDB/MySQL, Express.js, React, Node.js/Next.js)
+  - In Progress:  (SQL/Postgre, React, Node.js/Next.js)
   - Python: Arduino, ESP32, Raspberry Pi & Hydroponik-Automatisierung
 
 currently_learning:
   - Python
-  - MySQL
+  - SQL
 
 goals_2025:
   - Ziele der Umschulung erfüllen
