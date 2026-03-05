@@ -19,17 +19,17 @@ fields_of_interests:
 
 technical_background:
   - Frontend: HTML, CSS, JavaScript
-  - In Progress: SQL/Postgre, React, Node.js/Next.js
+  - In Progress: SQL/Postgre, React, Node.js/Next.js, FastAPI
   - Python: Arduino, ESP32, Raspberry Pi & Hydroponik-Automatisierung
 
 currently_learning:
   - Python
-  - SQL
+  - NextJS/FastAPI
 
-goals_2025:
+goals_2026:
   - Ziele der Umschulung erfüllen
   - Full-Stack-Grundlagen festigen
-  - Automatisierungsprojekte ausbauen
+  
 
 hobbies: ["Tech tinkering", "Gaming", "Fitness", "Gardening", "Personality Developement]
 
