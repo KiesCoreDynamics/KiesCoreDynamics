@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KiesCore%20Dynamics%20|%20Steffen&fontSize=40&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KiesCoreDynamics%20|%20Steffen&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
 ```yaml
 identity:
