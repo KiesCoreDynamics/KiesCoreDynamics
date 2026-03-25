@@ -61,10 +61,6 @@ focus: Full-Stack Development | Automation | IoT Systems
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=KiesCoreDynamics\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=false\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=KiesCoreDynamics\&theme=vision-friendly-dark\&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiesCoreDynamics\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=false\&count_private=true\&layout=compact)
 
 </p>
