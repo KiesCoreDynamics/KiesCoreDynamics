@@ -36,7 +36,7 @@ hobbies: ["Tech tinkering", "Gaming", "Fitness", "Gardening", "Personality Devel
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteffZeroEx&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiesCoreDynamics&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
@@ -47,9 +47,9 @@ hobbies: ["Tech tinkering", "Gaming", "Fitness", "Gardening", "Personality Devel
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SteffZeroEx/SteffZeroEx/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiesCoreDynamics/KiesCoreDynamics/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiesCoreDynamics/KiesCoreDynamics/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KiesCoreDynamics/KiesCoreDynamics/output/github-snake.svg" />
 </picture>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
