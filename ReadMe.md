@@ -1,34 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20ich%20bin%20Steffen%20👋&fontSize=40&animation=fadeIn&fontColor=ffffff)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KiesCore%20Dynamics%20|%20Steffen&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
 ```yaml
-name: Steffen
-located_in: Germany
-current_focus: Web Development & Automation
-education:
-  - Quereinsteiger in die Softwareentwicklung
-  - Umschulung zum Fachinformatiker (Start: Juli 2025)
+identity:
+  brand: KiesCoreDynamics
+  lead: Steffen
+  location: Germany
+  mission: "Bridging Logic & Automation"
 
-fields_of_interests:
-  - Full-Stack Development
-  - Automation & IoT
-  - Microcontroller Projects
-  - Python & Data
-  - UI/UX
-  - Databases
+core_path:
+  - Umschulung: Fachinformatiker für Anwendungsentwicklung (Start Juli 2025)
+  - Expertise: Full-Stack Development & IoT Systems
 
-technical_background:
-  - Frontend: HTML, CSS, JavaScript
-  - In Progress: SQL/Postgre, React, Node.js/Next.js, FastAPI
-  - Python: Arduino, ESP32, Raspberry Pi & Hydroponik-Automatisierung
+active_synchronization:
+  focus: [Web Development, Automation, Data Logic]
+  currently_learning: [Python, NextJS, FastAPI]
+  projects: ["Hydroponics Automation", "System Interfaces"]
 
-currently_learning:
-  - Python
-  - NextJS/FastAPI
+technical_stack:
+  languages: [JavaScript, Python, SQL, HTML/CSS]
+  frameworks: [React, Next.js, FastAPI]
+  hardware: [ESP32, Arduino, Raspberry Pi]
 
 goals_2026:
-  - Ziele der Umschulung erfüllen
-  - Full-Stack-Grundlagen festigen
+  - Mastery of Full-Stack fundamentals
+  - Deployment of scalable automation systems
   
 
 hobbies: ["Tech tinkering", "Gaming", "Fitness", "Gardening", "Personality Developement]
@@ -42,7 +37,7 @@ hobbies: ["Tech tinkering", "Gaming", "Fitness", "Gardening", "Personality Devel
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteffZeroEx&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ### ✍️ Random Dev Quote
