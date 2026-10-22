@@ -38,8 +38,7 @@ focus: Full-Stack Development | Automation | IoT Systems
 | ---------------------- | --------------------------------- | ------------------------ |
 | Streamory              | Stream Planning Plattform         | https://streamory.app    |
 | Lifeplanner App        | Organisation, Gewohnheiten, Ziele |                          |
-| Hydroponics Automation | Automatisiertes Pflanzensystem    |                          |
-| Magic Alchemie Master  | Idle Game                         |                          |
+| Hydroponics Automation | Automatisiertes Pflanzensystem    | ~ coming soon ~                         |
 
 ---
 
